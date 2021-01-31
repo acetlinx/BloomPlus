@@ -2,7 +2,7 @@
 Relax, Exercise, and Schedule Your Way Out of Stress
 
 ## Developers
-Fauzan Amjad
+Fauzan Amjad        
 Amad Qureshi
 
 ## Inspiration

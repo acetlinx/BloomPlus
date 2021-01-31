@@ -21,15 +21,3 @@ The more important thing we learned was that collaboration and cooperation is th
 ## What's next for Bloom+
 We want to utilize this application that we submitted to the hackathon as the foundation of an organization application for high school or college students with more advanced functionality built upon it. These advanced functionalities include more social networking through Zoom/phone calls directly from the app (Ex. Virtual Workout Buddies), keeping track of the calories without the user having the put the amount of calories directly into the application, and an implementation that allows students to automatically get virtual information from YouTube or other websites regarding the current academic topics they're studying. All in all, this idea/application has both creativity and infinite room to prosper and it comes down to whether or not we make the commitment to pursue this.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

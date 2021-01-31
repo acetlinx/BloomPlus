@@ -1,7 +1,7 @@
 # Bloom+
 Relax, Exercise, and Schedule Your Way Out of Stress
 
-##Developers
+## Developers
 Fauzan Amjad
 Amad Qureshi
 

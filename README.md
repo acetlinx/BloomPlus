@@ -1,6 +1,10 @@
 # Bloom+
 Relax, Exercise, and Schedule Your Way Out of Stress
 
+##Developers
+Fauzan Amjad
+Amad Qureshi
+
 ## Inspiration
 The coronavirus pandemic has affected everyone in some shape or form, whether it be through the loss of a loved one, being laid off, or rather simply the change of social norms that have mental/social implications. As students attending universities across the United States, we've often felt unmotivated to accomplish any of our academic studies, perform physical activity to maintain our health, or being socially active to keep our personalities engaged. We wanted to develop an application that could target physical, mental, and social health holistically - keeping student healthy through an organized approach.
 

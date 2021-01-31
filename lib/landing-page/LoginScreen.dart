@@ -177,7 +177,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(10.0),
                   ),
-                  color: Colors.purple,
+                  color: Colors.deepPurple,
                   child: Text(
                     "LOGIN",
                     style: GoogleFonts.roboto(

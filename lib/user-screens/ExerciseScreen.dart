@@ -22,10 +22,10 @@ class _ExerciseScreenState extends State<ExerciseScreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    todos.add("Push-Ups x30\nSit-Ups:50\nDate:1/30/2021");
-    todos.add("Push-Ups x30\nSit-Ups:50\nRunning: 5km in 1.0Hrs\nDate:2/1/2021");
-    todos.add("Power-Nap: 45min\nDate:2/3/2021");
-    todos.add("Push-Ups x50\nSit-Ups:80\nDate:2/3/2021");
+    todos.add("Push-Ups:30\nSit-Ups:50\nDate:1/30/2021");
+    todos.add("Push-Ups:30\nSit-Ups:50\nRunning:5km in 1.0Hrs\nDate:2/1/2021");
+    todos.add("Push-Ups:50\nSit-Ups:80\nDate:2/3/2021");
+    todos.add("Lunges:30\nPlank:2min\nRussian Twist:30\nDate:2/3/2021");
   }
 
   @override

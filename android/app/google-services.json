@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514615912336",
+    "project_id": "bloomplus-c2781",
+    "storage_bucket": "bloomplus-c2781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514615912336:android:d2a93e22753cd76d28f515",
+        "android_client_info": {
+          "package_name": "com.example.bloomplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514615912336-0kmvlrn5kaflpegep6fd8a7nil4h3fbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCp3Y7nKakJLXthOe4j6tLoBqY8ga6p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514615912336-0kmvlrn5kaflpegep6fd8a7nil4h3fbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

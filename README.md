@@ -1,4 +1,5 @@
 # Bloom+
+Relax, Exercise, and Schedule Your Way Out of Stress
 
 ## Inspiration
 The coronavirus pandemic has affected everyone in some shape or form, whether it be through the loss of a loved one, being laid off, or rather simply the change of social norms that have mental/social implications. As students attending universities across the United States, we've often felt unmotivated to accomplish any of our academic studies, perform physical activity to maintain our health, or being socially active to keep our personalities engaged. We wanted to develop an application that could target physical, mental, and social health holistically - keeping student healthy through an organized approach.
@@ -20,4 +21,7 @@ The more important thing we learned was that collaboration and cooperation is th
 
 ## What's next for Bloom+
 We want to utilize this application that we submitted to the hackathon as the foundation of an organization application for high school or college students with more advanced functionality built upon it. These advanced functionalities include more social networking through Zoom/phone calls directly from the app (Ex. Virtual Workout Buddies), keeping track of the calories without the user having the put the amount of calories directly into the application, and an implementation that allows students to automatically get virtual information from YouTube or other websites regarding the current academic topics they're studying. All in all, this idea/application has both creativity and infinite room to prosper and it comes down to whether or not we make the commitment to pursue this.
+
+## Compatibility
+Devices with Android 10.0 and higher
 
